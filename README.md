@@ -3,8 +3,11 @@
 ## Participantes
 
 - Santiago Cubelli
-- Nombre Apellido
-- Nombre Apellido
+- Amadeus Giorgi
+- Franco Ferrari
+- Joaquín Bustos
+- Tobías Demaria
+- Lautaro Bernasconi
 
 ## Contenido del repositorio
 
