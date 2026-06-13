@@ -17,8 +17,11 @@ Directorios comprimidos individualmente:
 - opt.tar.gz
 - www_dir.tar.gz
 - backup_dir.tar.gz
+- README.md
 
 El directorio /var fue comprimido y dividido en partes pequeñas:
 
-- var.tar.gz.part-aa
+- var.tar.gz.part-aa-split-aa
+- var.tar.gz.part-aa-split-ab
+- var.tar.gz.part-aa-split-ac
 - var.tar.gz.part-ab
